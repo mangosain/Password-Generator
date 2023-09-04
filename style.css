@@ -43,22 +43,22 @@ body {
     /* border-bottom: 1px solid #64CCC5; */
     padding: 0.2rem;
     margin-top: 2rem;
+}
 
-    input {
-        height: 25px;
-        width: 95%;
-        font-weight: 500;
-        border: none;
-        outline: none;
-        background-color: transparent;
-        color: #64CCC5;
-    }
+.input-box input {
+    height: 25px;
+    width: 95%;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #64CCC5;
+}
 
-    svg {
-        fill: #64CCC5;
-        height: 1.1rem;
-        cursor: pointer;
-    }
+.input-box svg {
+    fill: #64CCC5;
+    height: 1.1rem;
+    cursor: pointer;
 }
 
 .pass-indicator {
